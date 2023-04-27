@@ -1,4 +1,6 @@
 ola teste de git
+
+
 comandos do git
 1 git add (colocar o arquivo em espera)
 3 git push -u (nome de repositorio no git)main (enviar o arquivo para o github)
